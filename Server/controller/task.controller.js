@@ -13,8 +13,6 @@ module.exports = {
 
     console.log(information);
     return res.send("Task Success")
-
-
     }
     catch{
 console.log("Error");
